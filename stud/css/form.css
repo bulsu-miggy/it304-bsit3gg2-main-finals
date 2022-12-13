@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form{
+    height: 100vh;
+    background-color: rgb(160, 201, 255);
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form .form-box{
+   
+    height: 600px;
+    width: 800px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: antiquewhite;
+}
